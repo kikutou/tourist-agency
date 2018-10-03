@@ -1,0 +1,1732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vacation\n"
+"POT-Creation-Date: 2016-04-01 17:16+0530\n"
+"PO-Revision-Date: 2016-04-01 17:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+
+#: 404.php:14
+msgid "<strong>404</strong> Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....<br />Don't worry... it happens "
+"to the best of us."
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: archive.php:50
+msgid "Images"
+msgstr ""
+
+#: archive.php:53
+msgid "Videos"
+msgstr ""
+
+#: archive.php:56
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:59
+msgid "Links"
+msgstr ""
+
+#: archive.php:62
+#: sidebar-main.php:15
+#: sidebar-page.php:15
+#: sidebar.php:15
+msgid "Archives"
+msgstr ""
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18
+#: content-single.php:28
+#: content.php:36
+#: image.php:59
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23
+#: content-single.php:40
+#: content.php:70
+#: image.php:33
+#: image.php:65
+#: inc/template-tags.php:70
+#: inc/template-tags.php:89
+msgid "Edit"
+msgstr ""
+
+#: content.php:29
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:47
+#: content.php:57
+msgid ", "
+msgstr ""
+
+#: content.php:51
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content.php:61
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content.php:67
+msgid "Leave a comment"
+msgstr ""
+
+#: content.php:67
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:67
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:48
+msgid "Credit Card Support"
+msgstr ""
+
+#: functions.php:61
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:62
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:71
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:72
+msgid "Appears on page sidebar"
+msgstr ""
+
+#: functions.php:81
+msgid "Header Widget"
+msgstr ""
+
+#: functions.php:82
+msgid "Appears on header of the page"
+msgstr ""
+
+#: functions.php:91
+msgid "Footer Widget Left"
+msgstr ""
+
+#: functions.php:92
+msgid "Appears on Left side of footer "
+msgstr ""
+
+#: functions.php:101
+msgid "Footer Widget Right"
+msgstr ""
+
+#: functions.php:102
+msgid "Appears on Right side of footer "
+msgstr ""
+
+#: functions.php:111
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:112
+msgid "Appears on footer as a first column "
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:122
+msgid "Appears on footer as a second column "
+msgstr ""
+
+#: functions.php:131
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:132
+msgid "Appears on footer as a third column "
+msgstr ""
+
+#: functions.php:141
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:142
+msgid "Appears on footer as a fourth column "
+msgstr ""
+
+#: functions.php:578
+#: functions.php:579
+#: options.php:1279
+msgid "Testimonial"
+msgstr ""
+
+#: functions.php:580
+msgid "Add Testimonial"
+msgstr ""
+
+#: functions.php:581
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions.php:582
+msgid "Edit Testimonial"
+msgstr ""
+
+#: functions.php:583
+msgid "New Testimonial"
+msgstr ""
+
+#: functions.php:584
+msgid "All Testimonials"
+msgstr ""
+
+#: functions.php:585
+msgid "View Testimonial"
+msgstr ""
+
+#: functions.php:586
+msgid "Search Testimonial"
+msgstr ""
+
+#: functions.php:587
+msgid "No Testimonial found"
+msgstr ""
+
+#: functions.php:588
+msgid "No Testimonial found in the Trash"
+msgstr ""
+
+#: header.php:71
+msgid "Menu"
+msgstr ""
+
+#: header.php:141
+msgid "Learn More"
+msgstr ""
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: index.php:57
+#: options.php:718
+msgid "Sections"
+msgstr ""
+
+#: index.php:61
+#: options.php:722
+msgid "Number of Sections"
+msgstr ""
+
+#: index.php:62
+#: options.php:723
+msgid "Select number of sections"
+msgstr ""
+
+#: index.php:72
+#: options.php:733
+msgid "<h3>Section "
+msgstr ""
+
+#: index.php:77
+#: options.php:738
+msgid "Section Title"
+msgstr ""
+
+#: index.php:83
+#: options.php:744
+msgid "Section Title Color"
+msgstr ""
+
+#: index.php:89
+#: options.php:750
+msgid "Section Sub Title"
+msgstr ""
+
+#: index.php:95
+#: options.php:756
+msgid "Section Sub Title Color"
+msgstr ""
+
+#: index.php:101
+#: options.php:762
+msgid "Section ID"
+msgstr ""
+
+#: index.php:102
+#: options.php:763
+msgid ""
+"Enter your section ID here. SECTION ID MUST BE IN SMALL LETTERS ONLY AND DO "
+"NOT ADD SPACE OR SYMBOL."
+msgstr ""
+
+#: index.php:108
+#: options.php:769
+msgid "Section Background Color"
+msgstr ""
+
+#: index.php:109
+#: options.php:770
+msgid "Select background color for section"
+msgstr ""
+
+#: index.php:115
+#: options.php:776
+msgid "Background Image"
+msgstr ""
+
+#: index.php:122
+#: options.php:783
+msgid "Section CSS Class"
+msgstr ""
+
+#: index.php:123
+#: options.php:784
+msgid "Set class for this section."
+msgstr ""
+
+#: index.php:129
+#: options.php:790
+msgid "Hide Section"
+msgstr ""
+
+#: index.php:130
+#: options.php:791
+msgid "Check to hide this section"
+msgstr ""
+
+#: index.php:136
+#: options.php:797
+msgid "Section Content"
+msgstr ""
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: options.php:231
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:235
+msgid "Logo"
+msgstr ""
+
+#: options.php:236
+msgid "Upload your main logo here"
+msgstr ""
+
+#: options.php:243
+msgid "Favicon"
+msgstr ""
+
+#: options.php:244
+msgid "Upload favicon for website"
+msgstr ""
+
+#: options.php:251
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:252
+msgid ""
+"Some Custom Styling for your site. Place any css codes here instead of the "
+"style.css file."
+msgstr ""
+
+#: options.php:258
+msgid "Sticky Header"
+msgstr ""
+
+#: options.php:259
+msgid "Check this to disable sticky header on scroll"
+msgstr ""
+
+#: options.php:265
+msgid "Add Email"
+msgstr ""
+
+#: options.php:266
+msgid "Add Email address for header top."
+msgstr ""
+
+#: options.php:272
+msgid "Add Contact Number"
+msgstr ""
+
+#: options.php:273
+msgid "Add Contact number for header top."
+msgstr ""
+
+#: options.php:279
+msgid "Add Social Icon"
+msgstr ""
+
+#: options.php:280
+msgid "Add Social icon for header top."
+msgstr ""
+
+#: options.php:288
+msgid "Font Typogarphy"
+msgstr ""
+
+#: options.php:289
+msgid "Select font family/size/color/style for the body text."
+msgstr ""
+
+#: options.php:295
+msgid "Select font family/size/color/style for the textual logo"
+msgstr ""
+
+#: options.php:301
+msgid "Select font family/size/color/style for the tagline"
+msgstr ""
+
+#: options.php:307
+msgid "Select font family/size/color/style for the navigation text"
+msgstr ""
+
+#: options.php:313
+msgid "Select font family/size/color/style for slide title small"
+msgstr ""
+
+#: options.php:319
+msgid "Select font family/size/color/style for slide title large"
+msgstr ""
+
+#: options.php:325
+msgid "Select font family/size/color/style for slider description"
+msgstr ""
+
+#: options.php:331
+msgid "Select font family/size/color/style for three box title below slider"
+msgstr ""
+
+#: options.php:337
+msgid ""
+"Select font family/size/color/style for three/four box and blogposts title"
+msgstr ""
+
+#: options.php:343
+msgid "Select font family/size/color/style for four box places sub title"
+msgstr ""
+
+#: options.php:349
+msgid "Select font family/size/color/style for videos one half title"
+msgstr ""
+
+#: options.php:355
+msgid "Select font family/size/color/style for testimonials title"
+msgstr ""
+
+#: options.php:361
+msgid "Select font family/size/color/style for section title"
+msgstr ""
+
+#: options.php:367
+msgid "Select font family/size/color/style for section sub title"
+msgstr ""
+
+#: options.php:373
+msgid "Select font family/size/color/style for page title"
+msgstr ""
+
+#: options.php:379
+msgid "Select font family/size/color/style for widget title"
+msgstr ""
+
+#: options.php:385
+msgid "Select font family/size/color/style for footer title"
+msgstr ""
+
+#: options.php:391
+msgid "Select font family/size/color/style for footer content"
+msgstr ""
+
+#: options.php:401
+msgid "Font Colors"
+msgstr ""
+
+#: options.php:402
+msgid "Select font color for navigation hover"
+msgstr ""
+
+#: options.php:408
+msgid "Select font color for section title"
+msgstr ""
+
+#: options.php:414
+msgid "Select font hover color for three box bellow the slider"
+msgstr ""
+
+#: options.php:420
+msgid "Select font color for three box availability button below the slider"
+msgstr ""
+
+#: options.php:426
+msgid ""
+"Select font hover color for three box availability button below the slider"
+msgstr ""
+
+#: options.php:432
+msgid "Select font color for three/four box days/discount number"
+msgstr ""
+
+#: options.php:438
+msgid "Select font color for three/four box doller amount"
+msgstr ""
+
+#: options.php:444
+msgid "Select font / border color for three/four box check availability button"
+msgstr ""
+
+#: options.php:450
+#: options.php:456
+msgid "Select font hover color for four box check availability button"
+msgstr ""
+
+#: options.php:462
+msgid "Select font color for postmeta"
+msgstr ""
+
+#: options.php:468
+msgid "Select font color for one half content"
+msgstr ""
+
+#: options.php:474
+msgid "Select copyright font color for footer"
+msgstr ""
+
+#: options.php:480
+msgid "Select color for links / anchor tags"
+msgstr ""
+
+#: options.php:486
+msgid "Select font color for links / anchor tags on hover"
+msgstr ""
+
+#: options.php:492
+msgid "Select font color for contact button"
+msgstr ""
+
+#: options.php:498
+msgid "Select color for social icon"
+msgstr ""
+
+#: options.php:504
+msgid "Select hover color for social icon"
+msgstr ""
+
+#: options.php:510
+msgid "Select font hover color for footer anchor tag"
+msgstr ""
+
+#: options.php:519
+msgid "Background Colors"
+msgstr ""
+
+#: options.php:520
+msgid "Select background color for body"
+msgstr ""
+
+#: options.php:526
+msgid "Select background color for header top strip"
+msgstr ""
+
+#: options.php:532
+msgid "Select background hover color for header navigation"
+msgstr ""
+
+#: options.php:538
+msgid "Select background color for contact button"
+msgstr ""
+
+#: options.php:544
+msgid "Select hover background color for contact button"
+msgstr ""
+
+#: options.php:550
+msgid "Select background color for three box below slider"
+msgstr ""
+
+#: options.php:556
+msgid "Select background color for three box inner below slider"
+msgstr ""
+
+#: options.php:562
+msgid "Select hover background color for three box below slider"
+msgstr ""
+
+#: options.php:568
+msgid "Select hover background color for three box inner below slider"
+msgstr ""
+
+#: options.php:574
+msgid ""
+"Select background color for three box/four box hover check availability "
+"button"
+msgstr ""
+
+#: options.php:580
+msgid ""
+"Select hover background color for three box check availability button below "
+"slider"
+msgstr ""
+
+#: options.php:586
+msgid "Select background color for four/three box days/discount"
+msgstr ""
+
+#: options.php:592
+msgid "Select background color for three box special offers"
+msgstr ""
+
+#: options.php:598
+msgid "Select background color for post meta"
+msgstr ""
+
+#: options.php:604
+msgid "Select background color for footer section"
+msgstr ""
+
+#: options.php:610
+msgid "Select background color for copyright section"
+msgstr ""
+
+#: options.php:616
+msgid "Select background color for blog pagination"
+msgstr ""
+
+#: options.php:622
+msgid "Select background color for blog pagination active/hover"
+msgstr ""
+
+#: options.php:629
+msgid "Border Colors"
+msgstr ""
+
+#: options.php:630
+msgid "Select border color for slider purchase button"
+msgstr ""
+
+#: options.php:636
+msgid "Select border color for section title"
+msgstr ""
+
+#: options.php:642
+msgid "Select border color for four box places image"
+msgstr ""
+
+#: options.php:648
+msgid "Select border color for three/four box title"
+msgstr ""
+
+#: options.php:654
+msgid "Select border color for footer main"
+msgstr ""
+
+#: options.php:660
+msgid "Select border color for footer title"
+msgstr ""
+
+#: options.php:668
+msgid "Slider controls Colors"
+msgstr ""
+
+#: options.php:669
+msgid "Select background color for slider navigation"
+msgstr ""
+
+#: options.php:675
+msgid "Select background color for slider pager"
+msgstr ""
+
+#: options.php:681
+msgid "Select background hover color for slider pager"
+msgstr ""
+
+#: options.php:689
+msgid "Header Background Color and Opacity"
+msgstr ""
+
+#: options.php:690
+msgid "Select background color for header"
+msgstr ""
+
+#: options.php:696
+msgid "Select background opacity for header"
+msgstr ""
+
+#: options.php:703
+msgid "Select background color for slider caption"
+msgstr ""
+
+#: options.php:709
+msgid "Select background opacity for slide caption"
+msgstr ""
+
+#: options.php:806
+msgid "Homepage Slider"
+msgstr ""
+
+#: options.php:810
+msgid "Inner Page Slider"
+msgstr ""
+
+#: options.php:811
+msgid "Show / Hide inner page slider"
+msgstr ""
+
+#: options.php:818
+msgid "Slider Effects and Timing"
+msgstr ""
+
+#: options.php:819
+msgid "Select slider effect."
+msgstr ""
+
+#: options.php:826
+msgid "Animation speed should be multiple of 100."
+msgstr ""
+
+#: options.php:832
+msgid "Add slide pause time."
+msgstr ""
+
+#: options.php:838
+msgid "Slide Controllers"
+msgstr ""
+
+#: options.php:839
+msgid "Hide/Show Direction Naviagtion of slider."
+msgstr ""
+
+#: options.php:846
+msgid "Hide/Show pager of slider."
+msgstr ""
+
+#: options.php:853
+msgid "Pause Slide on Hover."
+msgstr ""
+
+#: options.php:860
+msgid "Slider Image 1"
+msgstr ""
+
+#: options.php:861
+msgid "First Slide"
+msgstr ""
+
+#: options.php:868
+#: options.php:901
+#: options.php:934
+#: options.php:967
+#: options.php:999
+#: options.php:1031
+#: options.php:1063
+#: options.php:1095
+#: options.php:1127
+#: options.php:1159
+msgid "Small Title"
+msgstr ""
+
+#: options.php:874
+#: options.php:907
+#: options.php:940
+#: options.php:973
+#: options.php:1005
+#: options.php:1037
+#: options.php:1069
+#: options.php:1101
+#: options.php:1133
+#: options.php:1165
+msgid "Large Title"
+msgstr ""
+
+#: options.php:880
+#: options.php:913
+#: options.php:946
+#: options.php:979
+#: options.php:1011
+#: options.php:1043
+#: options.php:1075
+#: options.php:1107
+#: options.php:1139
+#: options.php:1171
+msgid "Description or Tagline"
+msgstr ""
+
+#: options.php:886
+#: options.php:919
+#: options.php:952
+#: options.php:985
+#: options.php:1017
+#: options.php:1049
+#: options.php:1081
+#: options.php:1113
+#: options.php:1145
+#: options.php:1177
+msgid "Slide Url"
+msgstr ""
+
+#: options.php:893
+msgid "Slider Image 2"
+msgstr ""
+
+#: options.php:894
+msgid "Second Slide"
+msgstr ""
+
+#: options.php:926
+msgid "Slider Image 3"
+msgstr ""
+
+#: options.php:927
+msgid "Third Slide"
+msgstr ""
+
+#: options.php:959
+msgid "Slider Image 4"
+msgstr ""
+
+#: options.php:960
+msgid "Fourth Slide"
+msgstr ""
+
+#: options.php:991
+msgid "Slider Image 5"
+msgstr ""
+
+#: options.php:992
+msgid "Fifth Slide"
+msgstr ""
+
+#: options.php:1023
+msgid "Slider Image 6"
+msgstr ""
+
+#: options.php:1024
+msgid "Sixth Slide"
+msgstr ""
+
+#: options.php:1055
+msgid "Slider Image 7"
+msgstr ""
+
+#: options.php:1056
+msgid "Seventh Slide"
+msgstr ""
+
+#: options.php:1087
+msgid "Slider Image 8"
+msgstr ""
+
+#: options.php:1088
+msgid "Eighth Slide"
+msgstr ""
+
+#: options.php:1119
+msgid "Slider Image 9"
+msgstr ""
+
+#: options.php:1120
+msgid "Ninth Slide"
+msgstr ""
+
+#: options.php:1151
+msgid "Slider Image 10"
+msgstr ""
+
+#: options.php:1152
+msgid "Tenth Slide"
+msgstr ""
+
+#: options.php:1185
+msgid "Footer"
+msgstr ""
+
+#: options.php:1189
+msgid "Footer first column title"
+msgstr ""
+
+#: options.php:1190
+msgid "Add title for footer first column."
+msgstr ""
+
+#: options.php:1196
+msgid "Footer second column title"
+msgstr ""
+
+#: options.php:1197
+msgid "Add title for footer second column."
+msgstr ""
+
+#: options.php:1203
+msgid "Footer third column title"
+msgstr ""
+
+#: options.php:1204
+msgid "Add title for footer third column."
+msgstr ""
+
+#: options.php:1210
+msgid "Footer fourth column title"
+msgstr ""
+
+#: options.php:1211
+msgid "Add title for footer fourth column."
+msgstr ""
+
+#: options.php:1217
+msgid "Footer fourth column address area"
+msgstr ""
+
+#: options.php:1218
+msgid "Add title for footer fourth column address area."
+msgstr ""
+
+#: options.php:1224
+msgid "Footer fourth column address landmark"
+msgstr ""
+
+#: options.php:1225
+msgid "Add title for footer fourth column address landmark."
+msgstr ""
+
+#: options.php:1231
+msgid "Footer fourth column city/country"
+msgstr ""
+
+#: options.php:1232
+msgid "Add title for footer fourth column city/country."
+msgstr ""
+
+#: options.php:1238
+msgid "Footer fourth column phone number"
+msgstr ""
+
+#: options.php:1239
+msgid "Add title for footer fourth column phone number."
+msgstr ""
+
+#: options.php:1245
+msgid "Footer fourth column email address"
+msgstr ""
+
+#: options.php:1246
+msgid "Add title for footer fourth column email address."
+msgstr ""
+
+#: options.php:1252
+msgid "Footer fourth column website URL"
+msgstr ""
+
+#: options.php:1253
+msgid "Add title for footer fourth column website URL."
+msgstr ""
+
+#: options.php:1259
+msgid "Footer Copyright"
+msgstr ""
+
+#: options.php:1260
+msgid "Copyright Text for your site."
+msgstr ""
+
+#: options.php:1267
+msgid "Short Codes"
+msgstr ""
+
+#: options.php:1271
+msgid "Blog posts"
+msgstr ""
+
+#: options.php:1272
+msgid ""
+"<pre>\n"
+"[blogposts show=\"2\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1280
+msgid ""
+"<pre>\n"
+"[testimonials]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1286
+msgid "Social Icons"
+msgstr ""
+
+#: options.php:1287
+msgid ""
+"[social_area]<br>\n"
+"\t\t\t\t\t\t\t[social icon=\"Icon name\" link=\"Link here\"]<br>\n"
+"\t\t\t\t\t\t[/socia_area]"
+msgstr ""
+
+#: options.php:1293
+msgid "Services Box"
+msgstr ""
+
+#: options.php:1294
+msgid ""
+"<pre>\n"
+"[services icon=\"add fontawesome icon\" title=\"add title\" link=\"link url#"
+"\"]\n"
+"\tYour content here...\n"
+"[/services]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1302
+msgid "Places Box"
+msgstr ""
+
+#: options.php:1303
+msgid ""
+"<pre>\n"
+"[places image=\"Add url\" days=\"Add days\" title=\"Place title\" resort="
+"\"resort place\" doller=\"doller price\" link=\"link url#\" last=\"type yes "
+"to remove margin\"]\n"
+"\t\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1310
+msgid "Special Box"
+msgstr ""
+
+#: options.php:1311
+msgid ""
+"<pre>\n"
+"[special image=\"Add url\" discount=\"Add discount off\" title=\"Place title"
+"\" doller=\"doller price\" link=\"link url#\" last=\"type yes to remove "
+"margin\"]\n"
+"\t\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1319
+msgid "2 Column Content"
+msgstr ""
+
+#: options.php:1320
+msgid ""
+"<pre>\n"
+"[column_content type=\"one_half\"]\n"
+"\tColumn 1 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_half_last\"]\n"
+"\tColumn 2 Content goes here...\n"
+"[/column_content]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1332
+msgid "3 Column Content"
+msgstr ""
+
+#: options.php:1333
+msgid ""
+"<pre>\n"
+"[column_content type=\"one_third\"]\n"
+"\tColumn 1 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_third\"]\n"
+"\tColumn 2 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_third_last\"]\n"
+"\tColumn 3 Content goes here...\n"
+"[/column_content]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1349
+msgid "4 Column Content"
+msgstr ""
+
+#: options.php:1350
+msgid ""
+"<pre>\n"
+"[column_content type=\"one_fourth\"]\n"
+"\tColumn 1 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_fourth\"]\n"
+"\tColumn 2 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_fourth\"]\n"
+"\tColumn 3 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_fourth_last\"]\n"
+"\tColumn 4 Content goes here...\n"
+"[/column_content]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1370
+msgid "5 Column Content"
+msgstr ""
+
+#: options.php:1371
+msgid ""
+"<pre>\n"
+"[column_content type=\"one_fifth\"]\n"
+"\tColumn 1 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_fifth\"]\n"
+"\tColumn 2 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_fifth\"]\n"
+"\tColumn 3 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_fifth\"]\n"
+"\tColumn 4 Content goes here...\n"
+"[/column_content]\n"
+"\n"
+"[column_content type=\"one_fifth_last\"]\n"
+"\tColumn 5 Content goes here...\n"
+"[/column_content]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1395
+msgid "Clear"
+msgstr ""
+
+#: options.php:1396
+msgid ""
+"<pre>\n"
+"[clear]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1402
+msgid "HR / Horizontal separation line"
+msgstr ""
+
+#: options.php:1403
+msgid ""
+"<pre>\n"
+"[hr] or &lt;hr&gt;\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1409
+msgid "Separator / blank space"
+msgstr ""
+
+#: options.php:1410
+msgid ""
+"<pre>\n"
+"[separator height=\"20\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1416
+msgid "Tabs"
+msgstr ""
+
+#: options.php:1417
+msgid ""
+"<pre>\n"
+"[tabs]\n"
+"\t[tab title=\"TAB TITLE 1\"]\n"
+"\t\tTAB CONTENT 1\n"
+"\t[/tab]\n"
+"\t[tab title=\"TAB TITLE 2\"]\n"
+"\t\tTAB CONTENT 2\n"
+"\t[/tab]\n"
+"\t[tab title=\"TAB TITLE 3\"]\n"
+"\t\tTAB CONTENT 3\n"
+"\t[/tab]\n"
+"[/tabs]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1434
+msgid "Toggle Content"
+msgstr ""
+
+#: options.php:1435
+msgid ""
+"<pre>\n"
+"[toggle_content title=\"Toggle Title 1\"]\n"
+"\tToggle content 1...\n"
+"[/toggle_content]\n"
+"[toggle_content title=\"Toggle Title 2\"]\n"
+"\tToggle content 2...\n"
+"[/toggle_content]\n"
+"[toggle_content title=\"Toggle Title 3\"]\n"
+"\tToggle content 3...\n"
+"[/toggle_content]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1450
+msgid "Accordion Content"
+msgstr ""
+
+#: options.php:1451
+msgid ""
+"<pre>\n"
+"[accordion]\n"
+"\t[accordion_content title=\"ACCORDION TITLE 1\"]\n"
+"\t\tACCORDION CONTENT 1\n"
+"\t[/accordion_content]\n"
+"\t[accordion_content title=\"ACCORDION TITLE 2\"]\n"
+"\t\tACCORDION CONTENT 2\n"
+"\t[/accordion_content]\n"
+"\t[accordion_content title=\"ACCORDION TITLE 3\"]\n"
+"\t\tACCORDION CONTENT 3\n"
+"\t[/accordion_content]\n"
+"[/accordion]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1467
+msgid "Gradient Button - Small"
+msgstr ""
+
+#: options.php:1468
+msgid ""
+"<pre>\n"
+"[gradient_button size=\"small\" bg_color=\"#e00\" color=\"#fff\" text="
+"\"Medium Gradient Button\" title=\"Medium Gradient Button\" url=\"\" "
+"position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1474
+msgid "Gradient Button - Medium"
+msgstr ""
+
+#: options.php:1475
+msgid ""
+"<pre>\n"
+"[gradient_button size=\"medium\" bg_color=\"#060\" color=\"#fff\" text="
+"\"Medium Gradient Button\" title=\"Medium Gradient Button\" url=\"\" "
+"position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1481
+msgid "Gradient Button - Large"
+msgstr ""
+
+#: options.php:1482
+msgid ""
+"<pre>\n"
+"[gradient_button size=\"large\" bg_color=\"#026\" color=\"#fff\" text="
+"\"Large Gradient Button\" title=\"Large Gradient Button\" url=\"\" position="
+"\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1488
+msgid "Gradient Button - Xtra Large"
+msgstr ""
+
+#: options.php:1489
+msgid ""
+"<pre>\n"
+"[gradient_button size=\"x-large\" bg_color=\"#00ccff\" color=\"#fff\" text="
+"\"Extra Large Simple Button\" title=\"Extra Large Simple Button\" url=\"\" "
+"position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1495
+msgid "Simple Button - Small"
+msgstr ""
+
+#: options.php:1496
+msgid ""
+"<pre>\n"
+"[simple_button size=\"small\" bg_color=\"#c00\" color=\"#fff\" text=\"Small "
+"Simple Button\" title=\"Small Simple Button\" url=\"#\" position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1502
+msgid "Simple Button - Medium"
+msgstr ""
+
+#: options.php:1503
+msgid ""
+"<pre>\n"
+"[simple_button size=\"medium\" bg_color=\"#060\" color=\"#fff\" text="
+"\"Medium Simple Button\" title=\"Medium Simple Button\" url=\"\" position="
+"\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1509
+msgid "Simple Button - Large"
+msgstr ""
+
+#: options.php:1510
+msgid ""
+"<pre>\n"
+"[simple_button size=\"large\" bg_color=\"#026\" color=\"#fff\" text=\"Large "
+"Simple Button\" title=\"Large Simple Button\" url=\"\" position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1516
+msgid "Simple Button - Xtra Large"
+msgstr ""
+
+#: options.php:1517
+msgid ""
+"<pre>\n"
+"[simple_button size=\"x-large\" bg_color=\"#00ccff\" color=\"#fff\" text="
+"\"Extra Large Simple Button\" title=\"Extra Large Simple Button\" url=\"\" "
+"position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1523
+msgid "Round Button - Light"
+msgstr ""
+
+#: options.php:1524
+msgid ""
+"<pre>\n"
+"[round_button style=\"light\" text=\"Round Button\" title=\"Round Button\" "
+"url=\"\" position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1530
+msgid "Round Button - Dark"
+msgstr ""
+
+#: options.php:1531
+msgid ""
+"<pre>\n"
+"[round_button style=\"dark\" text=\"Round Button\" title=\"Round Button\" "
+"url=\"\" position=\"left\"]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1537
+msgid "Message Box - Success"
+msgstr ""
+
+#: options.php:1538
+msgid ""
+"<pre>\n"
+"[message type=\"success\"]This is a sample of the 'success' style message "
+"box shortcode. To use this style use the following shortcode[/message]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1544
+msgid "Message Box - Error"
+msgstr ""
+
+#: options.php:1545
+msgid ""
+"<pre>\n"
+"[message type=\"error\"]This is a sample of the 'error' style message box "
+"shortcode. To use this style use the following shortcode.[/message]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1551
+msgid "Message Box - Warning"
+msgstr ""
+
+#: options.php:1552
+msgid ""
+"<pre>\n"
+"[message type=\"warning\"]This is a sample of the 'warning' style message "
+"box shortcode. To use this style use the following shortcode.[/message]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1558
+msgid "Message Box - Info"
+msgstr ""
+
+#: options.php:1559
+msgid ""
+"<pre>\n"
+"[message type=\"info\"]This is a sample of the 'info' style message box "
+"shortcode. To use this style use the following shortcode.[/message]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1565
+msgid "Message Box - About"
+msgstr ""
+
+#: options.php:1566
+msgid ""
+"<pre>\n"
+"[message type=\"about\"]This is a sample of the 'about' style message box "
+"shortcode. To use this style use the following shortcode.[/message]\n"
+"</pre>"
+msgstr ""
+
+#: options.php:1572
+msgid "List Styles"
+msgstr ""
+
+#: options.php:1573
+msgid ""
+"<pre>\n"
+"[unordered_list style=\"list-1\"]&lt;li&gt;List style 1&lt;/li&gt;[/"
+"unordered_list]\n"
+"</pre>\n"
+"<br />You can use above shortcode OR simply add class to ul. You can choose "
+"from list-1 to list-10 styles.<br />\n"
+"<pre>\n"
+"&lt;ul class=\"list-1\"&gt;&lt;li&gt;List style 1&lt;/li&gt;&lt;/ul&gt;\n"
+"</pre>\n"
+msgstr ""
+
+#: options.php:1584
+msgid "Code"
+msgstr ""
+
+#: options.php:1585
+msgid ""
+"[code type=\"php/html\"]\n"
+"\t\tYour code here.\n"
+"\t\t[/code] \n"
+msgstr ""
+
+#: options.php:1592
+msgid "Pullquote"
+msgstr ""
+
+#: options.php:1593
+msgid ""
+"[pullquote align=\"left/right\"]\n"
+"\t\tYour quote text...\n"
+"\t\t[/pullquote] \n"
+msgstr ""
+
+#: options.php:1600
+msgid "Horizontal Separator"
+msgstr ""
+
+#: options.php:1601
+msgid "[hr_top] \n"
+msgstr ""
+
+#: options.php:1606
+msgid "Dropcap"
+msgstr ""
+
+#: options.php:1607
+msgid "[dropcap]L[/dropcap] \n"
+msgstr ""
+
+#: options.php:1612
+msgid "Search Form"
+msgstr ""
+
+#: options.php:1613
+msgid "[searchform] \n"
+msgstr ""
+
+#: options.php:1618
+msgid "Contact Form"
+msgstr ""
+
+#: options.php:1619
+msgid "[contactform to_email=\"test@example.com\" title=\"Contact Form\"] \n"
+msgstr ""
+
+#: options.php:1626
+msgid "Our Themes"
+msgstr ""
+
+#: options.php:1630
+msgid "Vacation WordPress theme has been Designed and Created by Flythemes."
+msgstr ""
+
+#: options.php:1634
+msgid "<a href=\""
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-main.php:21
+#: sidebar-page.php:21
+#: sidebar.php:21
+msgid "Meta"
+msgstr ""
+
+#: inc/custom-functions.php:135
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/options-media-uploader.php:51
+#: inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: inc/options-media-uploader.php:54
+#: inc/options-media-uploader.php:113
+#: inc/includes/class-options-media-uploader.php:65
+#: inc/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr ""
+
+#: inc/options-media-uploader.php:56
+#: inc/options-media-uploader.php:114
+#: inc/includes/class-options-media-uploader.php:67
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: inc/options-media-uploader.php:59
+#: inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/options-media-uploader.php:83
+#: inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:184
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:91
+#: inc/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:225
+msgid "Documentation"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:227
+msgid "For documentation and support check this link"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:259
+msgid "Default options restored."
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:313
+msgid "Options saved."
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:1035
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:1036
+msgid "Bold"
+msgstr ""
